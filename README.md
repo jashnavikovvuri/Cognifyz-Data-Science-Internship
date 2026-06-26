@@ -47,3 +47,25 @@ Perform descriptive analysis on the restaurant dataset by calculating statistica
 
 ## Conclusion
 This task provided insights into the dataset through descriptive statistics and categorical analysis. It helped in understanding restaurant distribution across cities and identifying the most common cuisines, forming a strong foundation for further data analysis.
+# Task 3: Geospatial Analysis
+
+## Objective
+Perform geospatial analysis by visualizing restaurant locations, analyzing their distribution across cities and countries, and studying the relationship between location and ratings.
+
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Folium
+- Google Colab
+
+## Steps Performed
+- Loaded the dataset.
+- Created an interactive map using restaurant latitude and longitude.
+- Analyzed restaurant distribution across cities and country codes.
+- Visualized city and country distributions using bar charts.
+- Calculated the correlation between latitude, longitude, and aggregate rating.
+- Created a scatter plot to examine the relationship between location and ratings.
+
+## Conclusion
+The restaurant locations were successfully visualized on a map. The dataset shows that restaurants are concentrated in specific cities and countries. The correlation analysis indicates that geographical coordinates alone have little to no strong relationship with restaurant ratings.
